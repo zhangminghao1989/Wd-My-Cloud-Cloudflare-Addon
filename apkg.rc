@@ -1,0 +1,19 @@
+Package:	    Cloudflare
+Section:	    Addon
+Version:	    1.0
+Packager:	    张明浩
+Email:		    webmaster@zhangminghao.com
+Homepage:	    http://www.zhangminghao.com
+Description:	使用My Cloud更新Cloudflare的DNS设置，以实现DDNS。连接Cloudflare Tunnels，实现内网穿透。
+Icon:	        Cloudflare.png
+AddonShowName:	Cloudflare DDNS and Tunnels
+AddonIndexPage:	index.php
+AddonUsedPort:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType:     1
+MinFWVer:       5.23.001
+MaxFWVer: 
+IndividualFlag: 1

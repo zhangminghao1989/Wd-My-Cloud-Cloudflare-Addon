@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <apkg>
+    <item>
+      <procudt_id>0</procudt_id>
+      <custom_id>20</custom_id>
+      <model_id>2</model_id>
+      <app_id>3</app_id>
+      <user_control>0</user_control>
+      <center_type>1</center_type>
+      <individual_flag>1</individual_flag>
+      <name>Cloudflare</name>
+      <show>Cloudflare DDNS and Tunnels</show>
+      <enable>1</enable>
+      <version>1.0</version>
+      <date>20230416</date>
+      <inst_date>04/16/2023 21:15:26</inst_date>
+      <path>/mnt/HD/HD_a2/Nas_Prog/Cloudflare</path>
+      <ps_name/>
+      <url>index.php</url>
+      <url_port/>
+      <apkg_version>2</apkg_version>
+      <packager>张明浩</packager>
+      <email>webmaster@zhangminghao.com</email>
+      <homepage>http://www.zhangminghao.com</homepage>
+      <inst_depend/>
+      <inst_conflict/>
+      <start_depend/>
+      <start_conflict/>
+      <description>使用My Cloud更新Cloudflare的DNS设置，以实现DDNS。连接Cloudflare Tunnels，实现内网穿透。</description>
+      <icon>Cloudflare.png</icon>
+      <MinFWVer>5.23.001</MinFWVer>
+      <MaxFWVer/>
+      <Hidden/>
+    </item>
+  </apkg>
+</config>
